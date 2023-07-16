@@ -31,11 +31,11 @@ function View() {
       <p>
         The code for this app is available at{' '}
         <a
-          href="https://github.com/GMOD/jbrowse-components/tree/main/embedded_demos/jbrowse-react-app-cra5"
+          href="https://github.com/GMOD/jbrowse-react-app-cra5-demo"
           target="_blank"
           rel="noreferrer"
         >
-          https://github.com/GMOD/jbrowse-components/tree/main/embedded_demos/jbrowse-react-app-cra5
+          https://github.com/GMOD/jbrowse-react-app-cra5-demo
         </a>
         .
       </p>
