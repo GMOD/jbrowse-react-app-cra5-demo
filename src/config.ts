@@ -141,7 +141,7 @@ const config = {
     },
   ],
   defaultSession: {
-    name: 'this session',
+    name: 'New session',
     margin: 0,
     views: [
       {
