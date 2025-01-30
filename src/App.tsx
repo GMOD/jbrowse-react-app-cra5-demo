@@ -16,10 +16,6 @@ function View() {
     const state = createViewState({
       config,
       makeWorkerInstance,
-
-
-      hydrateFn: hydrateRoot,
-      createRootFn: createRoot,
     })
     setViewState(state)
   }, [])
