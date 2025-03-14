@@ -1,7 +1,6 @@
-import React, { useState, useEffect } from 'react'
-import { createRoot, hydrateRoot } from 'react-dom/client'
-import { createViewState, JBrowseApp } from '@jbrowse/react-app'
-import makeWorkerInstance from '@jbrowse/react-app/esm/makeWorkerInstance'
+import { useState, useEffect } from 'react'
+import { createViewState, JBrowseApp } from '@jbrowse/react-app2'
+import makeWorkerInstance from '@jbrowse/react-app2/esm/makeWorkerInstance'
 import '@fontsource/roboto'
 
 import config from './config'
